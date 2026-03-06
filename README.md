@@ -1,9 +1,11 @@
 **#🐍 Week 2 – Data Cleaning Script (Python)
-**
-👩‍💻 Intern Name: Neha Beldar
-🏢 Organization: Skybrisk
-📅 Internship Month: 1
 
+👩‍💻 Intern Name: Neha Beldar
+
+🏢 Organization: Skybrisk
+
+📅 Internship Month: 1
+**
 ## 📌 Project Overview
 
 This project focuses on performing **basic data cleaning operations using Python and the Pandas library**. Data cleaning is an essential step in the data analysis process because raw datasets often contain missing values, duplicate records, or irrelevant data.
