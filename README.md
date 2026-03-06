@@ -1,4 +1,8 @@
-# Week 2 – Data Cleaning Script (Python)
+**#🐍 Week 2 – Data Cleaning Script (Python)
+**
+👩‍💻 Intern Name: Neha Beldar
+🏢 Organization: Skybrisk
+📅 Internship Month: 1
 
 ## 📌 Project Overview
 
